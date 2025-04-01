@@ -57,13 +57,13 @@ button{
 
 }
 
-.red{
+.light-red{
     background-color: red;
 }
 
-.yellow{
+.light-yellow{
     background-color: yellow;
 }
-.green{
+.light-green{
     background-color: rgb(15, 156, 15);
 }
